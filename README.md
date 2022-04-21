@@ -152,7 +152,7 @@ MC_80_20 = MCSimulation(
 )
 ```
 
-* ![MC_Simulation_Line_Plot](../Images/MC_Simulation_Line_Plot.png)
+* ![MC_Simulation_Line_Plot](/Images/MC_Simulation_Line_Plot.png)
 
 ---
 ## Contributors
